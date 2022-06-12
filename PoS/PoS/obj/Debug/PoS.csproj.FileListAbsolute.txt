@@ -1,7 +1,6 @@
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.exe.config
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.exe
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.pdb
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.csprojResolveAssemblyReference.cache
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.emplogin.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.entlogin.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.Form1.resources
@@ -19,3 +18,5 @@ D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.eaey.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.enterpriseinterface.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evemp.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evo.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.employeeinterface.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outletinterface.resources
