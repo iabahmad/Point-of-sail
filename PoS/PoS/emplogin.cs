@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class emplogin : Form
+    public partial class emplogin : MetroFramework.Forms.MetroForm
     {
         public emplogin()
         {
@@ -22,6 +22,11 @@ namespace PoS
             Form1 ff = new Form1();
             ff.Show();
             this.Hide();
+        }
+
+        private void emplogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

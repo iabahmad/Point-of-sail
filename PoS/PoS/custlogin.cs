@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class custlogin : Form
+    public partial class custlogin : MetroFramework.Forms.MetroForm
     {
         public custlogin()
         {
             InitializeComponent();
+        }
+
+        private void custlogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

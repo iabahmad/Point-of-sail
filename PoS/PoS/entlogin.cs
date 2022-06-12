@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class entlogin : Form
+    public partial class entlogin : MetroFramework.Forms.MetroForm
     {
         public entlogin()
         {
@@ -27,6 +27,11 @@ namespace PoS
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("not allowed to enterprise kindly reach us as 0313-7552313");
+        }
+
+        private void entlogin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
