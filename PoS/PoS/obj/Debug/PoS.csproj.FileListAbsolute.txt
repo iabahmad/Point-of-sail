@@ -1,1 +1,16 @@
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.exe.config
+D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.exe
+D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.pdb
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.csprojResolveAssemblyReference.cache
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.emplogin.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.entlogin.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.Form1.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outlogin.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.Properties.Resources.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.csproj.GenerateResource.Cache
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.exe
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.pdb
+D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.Design.dll
+D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.dll
+D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.Fonts.dll
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.custlogin.resources
