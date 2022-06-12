@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class Form1 : Form
+    public partial class Form1 : MetroFramework.Forms.MetroForm
     {
         public Form1()
         {
@@ -44,6 +44,11 @@ namespace PoS
             custlogin cl = new custlogin();
             cl.Show();
             this.Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
