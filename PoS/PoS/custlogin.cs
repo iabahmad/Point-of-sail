@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class outlogin : Form
+    public partial class custlogin : Form
     {
-        public outlogin()
+        public custlogin()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Form1 ff = new Form1();
-            ff.Show();
-            this.Hide();
         }
     }
 }

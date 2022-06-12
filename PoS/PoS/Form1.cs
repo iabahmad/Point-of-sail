@@ -38,5 +38,12 @@ namespace PoS
             ol.Show();
             this.Hide();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            custlogin cl = new custlogin();
+            cl.Show();
+            this.Hide();
+        }
     }
 }

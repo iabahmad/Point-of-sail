@@ -16,5 +16,12 @@ namespace PoS
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1 ff = new Form1();
+            ff.Show();
+            this.Hide();
+        }
     }
 }

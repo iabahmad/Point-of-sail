@@ -16,5 +16,17 @@ namespace PoS
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 ff = new Form1();
+            ff.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("not allowed to enterprise kindly reach us as 0313-7552313");
+        }
     }
 }
