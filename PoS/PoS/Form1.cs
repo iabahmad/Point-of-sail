@@ -16,5 +16,27 @@ namespace PoS
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            entlogin el = new entlogin();
+            el.Show();
+            this.Hide();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            emplogin el = new emplogin();
+            el.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            outlogin ol = new outlogin();
+            ol.Show();
+            this.Hide();
+        }
     }
 }
