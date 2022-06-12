@@ -61,17 +61,47 @@
     <Compile Include="custlogin.Designer.cs">
       <DependentUpon>custlogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="eado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eado.Designer.cs">
+      <DependentUpon>eado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eaey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eaey.Designer.cs">
+      <DependentUpon>eaey.cs</DependentUpon>
+    </Compile>
     <Compile Include="emplogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="emplogin.Designer.cs">
       <DependentUpon>emplogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="enterpriseinterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enterpriseinterface.Designer.cs">
+      <DependentUpon>enterpriseinterface.cs</DependentUpon>
+    </Compile>
     <Compile Include="entlogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="entlogin.Designer.cs">
       <DependentUpon>entlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evemp.Designer.cs">
+      <DependentUpon>evemp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evo.Designer.cs">
+      <DependentUpon>evo.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -90,11 +120,26 @@
     <EmbeddedResource Include="custlogin.resx">
       <DependentUpon>custlogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="eado.resx">
+      <DependentUpon>eado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eaey.resx">
+      <DependentUpon>eaey.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="emplogin.resx">
       <DependentUpon>emplogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="enterpriseinterface.resx">
+      <DependentUpon>enterpriseinterface.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="entlogin.resx">
       <DependentUpon>entlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evemp.resx">
+      <DependentUpon>evemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evo.resx">
+      <DependentUpon>evo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

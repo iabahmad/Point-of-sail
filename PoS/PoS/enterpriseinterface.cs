@@ -10,11 +10,24 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class enterpriseinterface : Form
+    public partial class enterpriseinterface : MetroFramework.Forms.MetroForm
     {
+    
         public enterpriseinterface()
         {
             InitializeComponent();
+        }
+
+        private void enterpriseinterface_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            eado ea = new eado();
+            ea.Show();
+            this.Hide();
         }
     }
 }

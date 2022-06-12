@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace PoS
 {
-    public partial class eaey : MetroFramework.Forms.MetroForm
+    public partial class evemp : MetroFramework.Forms.MetroForm
     {
-        public eaey()
+        public evemp()
         {
             InitializeComponent();
         }
 
-        private void eaey_Load(object sender, EventArgs e)
+        private void evemp_Load(object sender, EventArgs e)
         {
 
         }
