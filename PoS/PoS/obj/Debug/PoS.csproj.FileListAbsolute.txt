@@ -20,3 +20,6 @@ D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evemp.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evo.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.employeeinterface.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outletinterface.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.csprojResolveAssemblyReference.cache
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outlettakeorder.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outletvieworders.resources

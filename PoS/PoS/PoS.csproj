@@ -121,6 +121,18 @@
     <Compile Include="outletinterface.Designer.cs">
       <DependentUpon>outletinterface.cs</DependentUpon>
     </Compile>
+    <Compile Include="outlettakeorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outlettakeorder.Designer.cs">
+      <DependentUpon>outlettakeorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="outletvieworders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outletvieworders.Designer.cs">
+      <DependentUpon>outletvieworders.cs</DependentUpon>
+    </Compile>
     <Compile Include="outlogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -161,6 +173,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="outletinterface.resx">
       <DependentUpon>outletinterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outlettakeorder.resx">
+      <DependentUpon>outlettakeorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outletvieworders.resx">
+      <DependentUpon>outletvieworders.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="outlogin.resx">
       <DependentUpon>outlogin.cs</DependentUpon>

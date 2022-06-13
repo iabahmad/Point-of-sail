@@ -21,5 +21,26 @@ namespace PoS
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            outlogin olg = new outlogin();
+            olg.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            outletvieworders ovo = new outletvieworders();
+            ovo.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            outlettakeorder ott = new outlettakeorder();
+            ott.Show();
+            this.Hide();
+        }
     }
 }
