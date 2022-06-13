@@ -29,5 +29,26 @@ namespace PoS
             ea.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            eaey ey = new eaey();
+            ey.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            evo ev = new evo();
+            ev.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            evemp eve = new evemp();
+            eve.Show();
+            this.Hide();
+        }
     }
 }

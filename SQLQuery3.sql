@@ -65,3 +65,9 @@ create table Order_Details(
  Payment_ID int foreign key references Payment_method(Payment_ID),
 
 )
+
+create table lgi(
+id int,
+pass varchar,
+)
+insert into lgi values(1,"pass")

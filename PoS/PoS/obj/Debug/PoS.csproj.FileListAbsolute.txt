@@ -1,7 +1,6 @@
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.exe.config
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.exe
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\PoS.pdb
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.csprojResolveAssemblyReference.cache
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.emplogin.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.entlogin.resources
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.Form1.resources
@@ -14,3 +13,16 @@ D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.Design.dll
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.dll
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.Fonts.dll
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.custlogin.resources
+<<<<<<< HEAD
+=======
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.eado.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.eaey.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.enterpriseinterface.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evemp.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evo.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.employeeinterface.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outletinterface.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.csprojResolveAssemblyReference.cache
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outlettakeorder.resources
+D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.outletvieworders.resources
+>>>>>>> 872bdf187a6eb2014531dfe47605316c94709cf2
