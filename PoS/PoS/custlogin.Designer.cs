@@ -32,12 +32,10 @@
             // 
             // custlogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(885, 482);
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.ClientSize = new System.Drawing.Size(284, 261);
             this.Name = "custlogin";
-            this.Padding = new System.Windows.Forms.Padding(30, 92, 30, 31);
             this.Text = "custlogin";
             this.Load += new System.EventHandler(this.custlogin_Load);
             this.ResumeLayout(false);

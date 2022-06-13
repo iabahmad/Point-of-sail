@@ -14,8 +14,3 @@ D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.Design.dll
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.dll
 D:\project dbms 2\Point-of-sail\PoS\PoS\bin\Debug\MetroFramework.Fonts.dll
 D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.custlogin.resources
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.eado.resources
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.eaey.resources
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.enterpriseinterface.resources
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evemp.resources
-D:\project dbms 2\Point-of-sail\PoS\PoS\obj\Debug\PoS.evo.resources
